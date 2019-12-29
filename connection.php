@@ -4,6 +4,7 @@ $username = "root";
 $password = "root";
 $dbname = "exam";
 //by vishakha
+//by me
 $conn = mysqli_connect($servername,$username,$password,$dbname);
 
 if($conn)
